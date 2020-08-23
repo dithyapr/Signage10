@@ -5,6 +5,11 @@
   "dependencies": {
     "@videojs/themes": "^1.0.0",
     "express": "^4.17.1",
+    "js": "^0.1.0",
+    "mysql": "^2.18.1",
+    "openurl": "^1.1.1",
+    "opn": "^6.0.0",
+    "robot": "^0.3.0",
     "socket.io": "^2.3.0"
   },
   "devDependencies": {
